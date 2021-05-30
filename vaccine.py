@@ -92,7 +92,7 @@ for areacode in (440303,440304,440305):
         "outpMapLatitude":"",
         "corpCode":""
     })
-    shenzhen_data = json.loads(requests.post(data_url,data=queryStr,headers=data_headers).content)
+    shenzhen_data = requests.post(data_url,data=queryStr,headers=data_headers).json()
     data_base = shenzhen_data['data']['list']
     total_in_page = len(data_base)
     wx_push_access_url = 'https://qyapi.weixin.qq.com/cgi-bin/gettoken?corpid=企业微信企业ID&corpsecret=企业微信应用secret'
