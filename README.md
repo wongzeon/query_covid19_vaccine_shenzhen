@@ -25,7 +25,9 @@
 
 ✅ 注册企业微信，并新建一个应用，获取其编号和secret。[官方文档](https://work.weixin.qq.com/api/doc/90000/90135/90248)
 
-注册链接：[注册](https://work.weixin.qq.com/wework_admin/register_wx?from=myhome_openApi)
+企业微信注册链接：[注册](https://work.weixin.qq.com/wework_admin/register_wx?from=myhome_openApi)
+
+注册后直接在网页创建应用即可，无需下载APP
 
 # 说明
 ⚠ 项目仅用于学习交流，不可用于商业用途
