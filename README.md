@@ -47,4 +47,6 @@ PS. 提交和padID有关，可以请求对应的可预约的社康。
 
 打完了，科兴的，目前没啥反应，一切正常。
 
+打针一点感觉都没有，还没蚊子叮得有感觉😂，如果担心打针痛的，这点可以不用担心了
+
 ![result.jpg](http://ww1.sinaimg.cn/large/001NakGngy1gr1s4xwqilj60u0140q6602.jpg)
