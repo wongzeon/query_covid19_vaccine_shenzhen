@@ -8,6 +8,16 @@
 
 ![zx2.png](http://ww1.sinaimg.cn/large/001NakGngy1gr0sdqczx3j60gp0c1dg602.jpg)
 
+🔺 Stock 信息不是真实库存，只是状态信息。
+
+获取到可预约的社康depaId（社康ID），可通过社康编号Get网址，获得真实库存信息。
+
+`https://xgsz.szcdc.net/crmobile/reservationStock/timeNumber?depaId=社康编号&date=2021-06-01&vaccCode=5601`
+
+restSum是总库存，restSurplus则是剩余库存，选择后提交即可。
+
+tips：有可预约的时候，在选择时间的时候，也可能被预约完了，所以下手要快一些~
+
 # 使用条件
 ✅ 关注 `深圳疾控` 微信公众号，并建立个人档案；
 
@@ -35,16 +45,6 @@
 💡 项目仅是查询信息，不自动执行预约操作（免得预约的社康位置不合适）
 
 💡 项目只查询每个区域的第一页，有号放出来的都会自动排在第一页，多次测试都没超过两页，并且号很快就被抢完了。
-
-🔺 Stock 信息不是真实库存，只是状态信息。
-
-获取到可预约的社康depaId（社康ID），可通过社康编号Get网址，获得真实库存信息。
-
-`https://xgsz.szcdc.net/crmobile/reservationStock/timeNumber?depaId=社康编号&date=2021-06-01&vaccCode=5601`
-
-restSum是总库存，restSurplus则是剩余库存，选择后提交即可。
-
-tips：有可预约的时候，在选择时间的时候，也可能被预约完了，所以下手要快一些~
 
 # 实际测试
 
