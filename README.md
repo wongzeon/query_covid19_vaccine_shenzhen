@@ -9,7 +9,7 @@
 ![zx2.png](http://ww1.sinaimg.cn/large/001NakGngy1gr0sdqczx3j60gp0c1dg602.jpg)
 
 # 使用条件
-✅ 关注 `深圳疾控` 微信公众号，并在建立疫苗档案；
+✅ 关注 `深圳疾控` 微信公众号，并建立个人档案；
 
 ✅ 电脑端安装Fiddler或其他的抓包工具，并登录PC微信，打开Fiddler后，打开疫苗预约页面，完成登录抓包。
 
@@ -23,15 +23,15 @@
 
 ✅ Python版本 >= 3.6，需要requests库，没有的请执行 `pip install requests`
 
-✅ 注册企业微信，并新建一个应用，获取其编号和secret。![官方文档](https://work.weixin.qq.com/api/doc/90000/90135/90248)
+✅ 注册企业微信，并新建一个应用，获取其编号和secret。[官方文档](https://work.weixin.qq.com/api/doc/90000/90135/90248)
 
-注册链接：![注册](https://work.weixin.qq.com/wework_admin/register_wx?from=myhome_openApi)
+注册链接：[注册](https://work.weixin.qq.com/wework_admin/register_wx?from=myhome_openApi)
 
 # 说明
 ⚠ 项目仅用于学习交流，不可用于商业用途
 
 💡 项目仅是查询信息，不自动执行预约操作（免得预约的社康位置不合适）
-PS. 改改应该能实现
+PS. 提交和padID有关，可以请求对应的可预约的社康。
 
 # 实际测试
 
