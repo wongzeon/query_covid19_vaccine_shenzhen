@@ -54,8 +54,6 @@ tips：有可预约的时候，在选择时间的时候，也可能被预约完�
 
 ![zx3](http://ww1.sinaimg.cn/large/001NakGngy1gr0sw83jjvj60u010xtee02.jpg)
 
-![zx4](http://ww1.sinaimg.cn/large/001NakGngy1gr0sy89j7ij60tp0y1gpq02.jpg)
-
 ## 接种完成
 
 打完了，科兴的，目前没啥反应，一切正常。
